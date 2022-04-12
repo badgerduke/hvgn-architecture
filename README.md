@@ -2,4 +2,4 @@
 
 ![HVGN Architecture][Diagram]
 
-[Diagram]: https://github.com/badgerduke/hvgn-architecture/blob/master/hvgn-architecture.png
+[Diagram]: https://github.com/badgerduke/hvgn-architecture/blob/master/hvgn%20architecture.png
