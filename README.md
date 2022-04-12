@@ -1,4 +1,5 @@
-# hvgn-architecture
-Architectural overview of HVGN
+# Architectural overview of HVGN
 
-![HVGN Architecture](hvgn%20architecture.png)
+![HVGN Architecture][Diagram]
+
+[Diagram]: https://github.com/badgerduke/hvgn-architecture/blob/master/hvgn-architecture.png
